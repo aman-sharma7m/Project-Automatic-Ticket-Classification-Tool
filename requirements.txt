@@ -8,3 +8,4 @@ streamlit-chat
 pypdf
 joblib
 pinecone-client
+pypdf2
