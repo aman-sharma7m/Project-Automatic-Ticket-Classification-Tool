@@ -9,3 +9,4 @@ pypdf
 joblib
 pinecone-client
 pypdf2
+scikit-learn
