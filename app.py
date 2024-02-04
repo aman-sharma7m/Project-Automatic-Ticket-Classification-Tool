@@ -41,7 +41,7 @@ def main():
       embedding=get_embedding()
       e_query=embedding.embed_query(query)
       query_result=predict(e_query)[0]
-      st.write(f'Tickets has been assigned :{query_result}')
+      st.write(f'Tickets has been assigned : {query_result}')
 
       if query_result=='HR':
         st.session_state['HR_tickets'].append(query)
