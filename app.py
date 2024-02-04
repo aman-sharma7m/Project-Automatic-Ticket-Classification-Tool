@@ -1,4 +1,4 @@
-from user_utils import *
+from utils.user_utils import *
 import streamlit as st 
 from dotenv import load_dotenv
 
