@@ -1,6 +1,6 @@
 from dotenv import load_dotenv
 import streamlit as st
-from utils import *
+from admin_utils import *
 
 #loading the keys
 load_dotenv()
