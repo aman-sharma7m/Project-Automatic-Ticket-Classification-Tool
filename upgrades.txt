@@ -1,0 +1,4 @@
+1. pick the latest model for classificstion (model_score_date.pkl), remove user to name the model
+2. while you view tickets it will have a option to save it in csv for future learning. (export csv)
+3. model evaluation-check query functionality add.
+4. if new department docs come up. so add else condition to point ticket to raise in common general class which can be use to train new class while working to train.
